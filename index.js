@@ -10,9 +10,9 @@ app.listen(port, () => {
 
 // Array to store the URLs
 const urls = [
-  "https://discord-cards.kurizu.repl.co/api/compact/784141856426033233",
-  "https://anyanime-api.kurizu.repl.co/",
-  "https://xlsxmongoapi.kurizu.repl.co/",
+  "https://proud-sky-8d21.carol321.workers.dev/",
+  "https://rending7.onrender.com/",
+  "https://desipient79.onrender.com/",
   // Add more URLs here
 ];
 
@@ -34,7 +34,7 @@ const keepReplAlive = () => {
   });
 };
 
-setInterval(keepReplAlive, 25 * 60 * 1000); // 25 minutes
+setInterval(keepReplAlive, 4 * 60 * 1000); // 4 minutes
 
 app.get("/", (req, res) => {
   res.send("Server is running");
