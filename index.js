@@ -13,6 +13,7 @@ const urls = [
   "https://proud-sky-8d21.carol321.workers.dev/",
   "https://rending7.onrender.com/",
   "https://desipient79.onrender.com/",
+  "https://longtruth.drabettes168967.workers.dev/",
   // Add more URLs here
 ];
 
