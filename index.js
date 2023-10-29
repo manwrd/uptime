@@ -15,6 +15,7 @@ const urls = [
   "https://desipient79.onrender.com/",
   "https://longtruth.drabettes168967.workers.dev/",
   "https://replitkalilinux--clydeferoliho6.repl.co/",
+  "https://loadserver.onrender.com/",
   // Add more URLs here
 ];
 
