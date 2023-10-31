@@ -16,6 +16,8 @@ const urls = [
   "https://longtruth.drabettes168967.workers.dev/",
   "https://replitkalilinux--clydeferoliho6.repl.co/",
   "https://loadserver.onrender.com/",
+  "https://ubu387.onrender.com/",
+  "https://webfree--thomaseastwood2.repl.co/",
   // Add more URLs here
 ];
 
